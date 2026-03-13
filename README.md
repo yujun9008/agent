@@ -16,6 +16,10 @@
 python3 scripts/monthly_performance.py 2026-02
 ```
 
+**效果截图：**
+
+![效果截图](skills/china-red-chip-monthly/POPO-screenshot-20260313-204728.png)
+
 ---
 
 ### 📊 stock-backtest
@@ -28,6 +32,10 @@ python3 scripts/monthly_performance.py 2026-02
 ```bash
 python3 scripts/backtest.py "600737,601963,002572" 2026-03-02 2026-03-13
 ```
+
+**效果截图：**
+
+![效果截图](skills/stock-backtest/POPO-screenshot-20260313-205014.png)
 
 ---
 
